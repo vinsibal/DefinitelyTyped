@@ -38,6 +38,7 @@ declare module "react-custom-scrollbars" {
         autoHide?: boolean;
         autoHideTimeout?: number;
         autoHideDuration?: number;
+        alwaysShowTracksWhenMouseOver?: boolean;
 
         thumbSize?: number;
         thumbMinSize?: number;
